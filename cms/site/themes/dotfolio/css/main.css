@@ -333,3 +333,9 @@ iframe.project_image{
 section#screens .project_ending {
     margin-top: 100px;
 }
+
+#projects li span
+{
+    font-size: 10pt;
+}
+
