@@ -250,6 +250,10 @@ section#about .avatar_card{
     display: flex;
 }
 
+section#about .avatar_card name_contact{
+    margin-left: 75px;
+}
+
 section#about p{
     display:block;
 }
@@ -262,6 +266,7 @@ section#about p#hi{
     margin: 0px;
 }
 section#about p#aboutme_p{
+    margin-top: 50px;
     height:600px;
     color:#000000;
 }
@@ -279,12 +284,11 @@ section#about p#aboutme_p span#hireme{
     font-style:italic
 }
 section#about ul#contacts{
-    width:214px;
     list-style:none;
 }
 section#about ul#contacts li{
     font-family: 'Proxima Nova', Georgia, sans-serif;
-    text-align:center;
+    text-align:left;
     margin-bottom:2px
 }
 section#about ul#contacts li hr{
