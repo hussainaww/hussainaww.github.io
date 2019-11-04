@@ -261,6 +261,7 @@ section#about img{
     display:block;
 }
 section#about p#hi{
+    margin-left:92px;
     font-family: 'Proxima Nova', Georgia, sans-serif;
     font-size:24pt;
     margin: 0px;
@@ -284,6 +285,7 @@ section#about p#aboutme_p span#hireme{
     font-style:italic
 }
 section#about ul#contacts{
+    margin-left:  54px;
     list-style:none;
 }
 section#about ul#contacts li{
