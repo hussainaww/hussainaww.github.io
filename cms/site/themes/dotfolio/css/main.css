@@ -246,7 +246,7 @@ section#about{
     opacity:.0
 }
 section#about p{
-    display:flex;
+    display:block;
 }
 section#about img{
     display:block;
