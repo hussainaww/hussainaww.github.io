@@ -247,21 +247,17 @@ section#about{
 section#about p{
     display:block;
     width:450px;
-    float:right
 }
 section#about img{
     display:block;
-    float:left
 }
 section#about p#hi{
     font-family: 'Proxima Nova', Georgia, sans-serif;
-    font-size:30pt;
-    margin-top:70px;
-    margin-bottom:0
+    font-size:24pt;
+    margin: 0px;
 }
 section#about p#aboutme_p{
     height:600px;
-    margin-top:24px;
     color:#000000;
 }
 section#about p#aboutme_p span#hireme{
@@ -278,11 +274,8 @@ section#about p#aboutme_p span#hireme{
     font-style:italic
 }
 section#about ul#contacts{
-    float:left;
     width:214px;
     list-style:none;
-    margin:0;
-    padding:0
 }
 section#about ul#contacts li{
     font-family: 'Proxima Nova', Georgia, sans-serif;
