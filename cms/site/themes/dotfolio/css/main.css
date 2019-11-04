@@ -237,16 +237,16 @@ p.project_p,p#aboutme_p{
     margin-top:0;
 }
 section#about{
-    display:none;
+    display:flex;
     margin-top:150px;
+    margin-left:20%;
     position:absolute;
     left:30px;
-    width:690px;
+    width:48%;
     opacity:.0
 }
 section#about p{
-    display:block;
-    width:450px;
+    display:flex;
 }
 section#about img{
     display:block;
