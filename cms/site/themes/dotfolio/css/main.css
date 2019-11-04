@@ -221,19 +221,19 @@ p.projectSong,p.projectFood{
     font-weight:lighter;
     font-family: 'Proxima Nova', Georgia, sans-serif;
     font-style:italic;
-    color:#353535;
+    color:#000000;
     margin-top:0;
 }
 p.projectFood{
     margin-bottom:24px;
 }
 p.project_p,p#aboutme_p{
-    font-weight:lighter;
+    font-weight:300;
     font-family:'Droid Sans',sans-serif;
     font-style:normal;
-    font-size:14pt;
+    font-size:11pt;
     line-height:18pt;
-    color:#353535;
+    color:#000000;
     margin-top:0;
 }
 section#about{
@@ -260,9 +260,9 @@ section#about p#hi{
     margin-bottom:0
 }
 section#about p#aboutme_p{
-    height:400px;
+    height:600px;
     margin-top:24px;
-    color:#353535;
+    color:#000000;
 }
 section#about p#aboutme_p span#hireme{
     font-weight:normal;
