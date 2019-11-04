@@ -245,6 +245,11 @@ section#about{
     width:48%;
     opacity:.0
 }
+
+section#about .avatar_card{
+    display: flex;
+}
+
 section#about p{
     display:block;
 }
