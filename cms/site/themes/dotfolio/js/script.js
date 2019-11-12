@@ -46,6 +46,7 @@ $(document).ready(function() {
             return } }
 });
 $(window).load(function() {
+	$("section#about").css("display", "none");
 	$("nav#nav #nav_projects").css("pointer-events", "none");
     $("nav#nav #nav_projects").css("cursor", "default");
     $("nav#nav #nav_projects").css("opacity", "0.2");
